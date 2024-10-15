@@ -5,5 +5,6 @@ SQL for querying and managing databases.
 
 |Statements|Explanation|
 | -------- | ----------|
-|SHOW DATABASES;| Displays a list of all available databases in the database management system (DBMS) that the user has access to.|
-|||
+| SHOW DATABASES;| Displays a list of all available databases in the database management system (DBMS) that the user has access to.|
+| CREATE DATABASE <database_name>; | Creates a new (empty) databse. |
+| DROP DATABASE <database_name>; | Deletes an existing database. |
