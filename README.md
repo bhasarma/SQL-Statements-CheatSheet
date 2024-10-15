@@ -15,6 +15,7 @@ SQL for querying and managing databases.
    
     ```
     CREATE TABLE <table_name> (    
-    column-name-1 datatype-1,    
-    column-name-2 datatype-2);
+        column_name_1 datatype_1,    
+        column_name_2 datatype_2
+    );
     ```
