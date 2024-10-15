@@ -10,3 +10,11 @@ SQL for querying and managing databases.
 | 3. | DROP DATABASE <database_name>; | Deletes an existing database. |
 | 4. | USE <database_name>; | Brings the user inside the database. |
 | 5. | SELECT database(); | Returns the name of currently selected database. |
+
+6. Creating a table:
+   
+    ```
+    CREATE TABLE <table_name> (    
+    column-name-1 datatype-1,    
+    column-name-2 datatype-2);
+    ```
